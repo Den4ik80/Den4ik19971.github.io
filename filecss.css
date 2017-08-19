@@ -1,0 +1,51 @@
+body
+{
+background-color:gray;
+
+}
+
+div
+{
+background-color:gray;
+border:0px;
+margin-left:2%;
+margin-right:10%;
+width:170px;
+font-size: 14px;
+border-style: solid;
+padding-left: 40px;
+padding-right: 40px;
+float: left;
+}
+
+div.cl1
+{
+background-color:gray;
+border:0px;
+margin-left:2%;
+margin-right:10%;
+width:600px;
+font-size: 14px;
+border-style: solid;
+padding-left: 40px;
+padding-right: 40px;
+float: right;
+}
+
+button
+{
+margin-left:5%;
+font-size: 20px;
+text-shadow: 1px 1px 2px black, 0 0 1em red;
+}
+
+p
+{
+font-size: 18px;
+font-family: COMIC SANS MS, times new roman, times, 'MyWebFont', DroidSans, serif;
+text-shadow: 1px 1px 2px black, 0 0 1em gray;
+color: white;
+margin-left:20%;
+}
+
+
